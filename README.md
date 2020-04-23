@@ -1,2 +1,5 @@
 # Sentiment-Analysis-Project
-Bachelors degree final year project on SA
+Use the zipped file for the Sentiment Analysis Project and the textual file for the Spam detection
+Sentiment Analysis Project - exploratory analysis and comparison of classifiers
+Spam Detection - supervised approach for fake reviews
+
